@@ -1,0 +1,11 @@
+## YAML Template.
+---
+User:
+  Admin:
+    username: Voltxion
+    password: mm112485
+    email: voltxion@gmail.com
+  Test:
+    username: tester
+    password: testpass
+    email: mark.mccook@gmail.com

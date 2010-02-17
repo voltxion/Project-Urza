@@ -1,0 +1,192 @@
+a:link, a:visited, a:hover, a:active {
+	color:#7b8a95;
+}
+
+#head {
+	background: #777 url(layout/grey-theme/head_bg.gif) repeat-x;
+}
+
+#user_details_menu a:link, 
+#user_details_menu a:visited, 
+#user_details_menu a:hover, 
+#user_details_menu a:active {
+	color: #feffff;
+}
+
+#user_details_menu {
+	color: #d5d5d5;
+	background-image:url(layout/grey-theme/user_ico.gif);
+}
+
+#user_details_menu li {
+	background:url(layout/grey-theme/user_details_bg.gif) no-repeat right center;
+}
+
+#server_details {
+	color: #a0a0a0;
+}
+
+
+
+#main_menu a:link, #main_menu a:visited, #main_menu a:active {
+	background:url(layout/grey-theme/mm_lk_middle.gif) repeat-x 0 -35px;
+	
+}
+
+#main_menu a span {
+	background:url(layout/grey-theme/mm_lk_left.gif) no-repeat 0 -35px;
+}
+
+#main_menu a span  span {
+	background:url(layout/grey-theme/mm_lk_right.gif) no-repeat right -35px;
+}
+
+#main_menu a.selected:link, 
+#main_menu a.selected:visited, 
+#main_menu a.selected:hover, 
+#main_menu a.selected:active {
+	color:#fff;
+}
+
+#main_menu a:hover {
+	color: #dcdddd;
+}
+
+#main_menu li li a:link, #main_menu li li a:visited, #main_menu li li a:active {
+	background:url(layout/grey-theme/mm_lk_middle2.gif) repeat-x 0 -25px;
+	color: #fff;
+}
+
+#main_menu li li a:hover {
+	color: #c3ced7;
+}
+
+#main_menu li li a span {
+	background:url(layout/grey-theme/mm_lk_left2.gif) no-repeat 0 -25px;
+}
+
+#main_menu li li a span span {
+	background:url(layout/grey-theme/mm_lk_right2.gif) no-repeat right -25px;
+}
+
+#main_menu li li  a.selected:link, 
+#main_menu li li  a.selected:visited, 
+#main_menu li li a.selected:hover, 
+#main_menu li li a.selected:active {
+	color:#fff;
+	font-weight: bold;
+}
+
+
+h3 {
+	color: #778693;
+}
+
+#info h2 {
+	color:#4e5860;
+}
+
+#sidebar h3 {
+	color: #4e5860
+}
+
+.view_all_orders:link, 
+.view_all_orders:visited, 
+.view_all_orders:hover, 
+.view_all_orders:active	 {
+	color: #667581;
+}
+
+.product_name:link, 
+.product_name:visited, 
+.product_name:hover, 
+.product_name:active {
+	color: #667581;
+}
+
+.actions_menu a:link, 
+.actions_menu a:visited, 
+.actions_menu a:hover, 
+.actions_menu a:active {
+	color: #667581;
+}
+
+.table_wrapper th a:link, 
+.table_wrapper th a:visited, 
+.table_wrapper th a:hover, 
+.table_wrapper th a:active {
+	color: #1f476f;
+}
+
+#secondary_menu a:link, 
+#secondary_menu a:visited, 
+#secondary_menu a:hover, 
+#secondary_menu a:active {
+	background:url(layout/red-theme/sec_menu_bg.gif) no-repeat 3px center;
+}
+
+.update:link, .update:visited, .update:active {
+	color: #667581;
+	background:url(layout/grey-theme/update_middle.gif) repeat-x;
+}
+
+.update span {
+	background:url(layout/grey-theme/update_left.gif) no-repeat;
+}
+
+.update span span {
+	background:url(layout/grey-theme/update_right.gif) no-repeat right top;
+}
+
+.update em {
+	background-image:url(layout/grey-theme/add.gif);
+}
+
+.pag_list a:link, .pag_list a:visited, .pag_list a:hover, .pag_list a:active {
+	color: #667581;
+}	
+
+.prev {
+	background-image: url(layout/grey-theme/prev.gif);
+}
+
+.next {
+	background-image: url(layout/grey-theme/next.gif);
+}
+
+.button {
+	background-image:url(layout/grey-theme/submit_middle.gif);
+}
+
+.button span {
+	background-image:url(layout/grey-theme/submit_left.gif);
+}
+
+.button span span {
+	background-image:url(layout/grey-theme/submit_right.gif);
+	
+}
+
+.small_inputs .button {
+	background-image: url(layout/grey-theme/submit_middle_small.gif)
+}
+
+.small_inputs .button span  {
+	background-image: url(layout/grey-theme/submit_left_small.gif)
+}
+
+.small_inputs .button span span  {
+	background-image: url(layout/grey-theme/submit_right_small.gif)
+}
+
+.pagination .button {
+	background-image: url(layout/grey-theme/go.gif);
+}
+
+
+	
+
+
+
+
+

@@ -1,0 +1,38 @@
+a:link, a:visited, a:active {
+	color: #8ca3b5;
+	
+}
+
+#header {
+	background: #7a7a7a url(layout/grey-theme/login_header_bg.gif) repeat-x;
+}
+
+.title_wrapper h2 {
+	color:#777750;
+}
+
+.button {
+	background:url(layout/grey-theme/submit_middle.gif) repeat-x;
+}
+
+.small_inputs .button {
+	background-image: url(layout/grey-theme/submit_middle_small.gif)
+	
+}
+
+.button span {
+	background:url(layout/grey-theme/submit_left.gif) no-repeat;
+}
+
+.small_inputs .button span {
+	background-image: url(layout/grey-theme/submit_left_small.gif);
+}
+
+.button span span {
+	background:url(layout/grey-theme/submit_right.gif) no-repeat right 0;
+}
+
+.small_inputs .button span span {
+	background-image: url(layout/grey-theme/submit_right_small.gif);
+}
+

@@ -1,0 +1,190 @@
+a:link, a:visited, a:hover, a:active {
+	color:#cb2900;
+}
+
+#head {
+	background: #993625 url(layout/red-theme/head_bg.gif) repeat-x;
+}
+
+#user_details_menu a:link, 
+#user_details_menu a:visited, 
+#user_details_menu a:hover, 
+#user_details_menu a:active {
+	color: #faa333;
+}
+
+#user_details_menu {
+	color: #f4d5b7;
+	background-image:url(layout/red-theme/user_ico.gif);
+}
+
+#user_details_menu li {
+	background:url(layout/red-theme/user_details_bg.gif) no-repeat right center;
+}
+
+#server_details {
+	color: #c77062;
+}
+
+
+
+#main_menu a:link, #main_menu a:visited, #main_menu a:active {
+	background:url(layout/red-theme/mm_lk_middle.gif) repeat-x 0 -35px;
+	
+}
+
+#main_menu a span {
+	background:url(layout/red-theme/mm_lk_left.gif) no-repeat 0 -35px;
+}
+
+#main_menu a span  span {
+	background:url(layout/red-theme/mm_lk_right.gif) no-repeat right -35px;
+}
+
+#main_menu a.selected:link, 
+#main_menu a.selected:visited, 
+#main_menu a.selected:hover, 
+#main_menu a.selected:active {
+	color:#414326;
+}
+
+#main_menu a:hover {
+	color: #f7ffb3;
+}
+
+#main_menu li li a:link, #main_menu li li a:visited, #main_menu li li a:active {
+	background:url(layout/red-theme/mm_lk_middle2.gif) repeat-x 0 -25px;
+	color: #2a2a2a;
+}
+
+#main_menu li li a:hover {
+	color: #8e2409;
+}
+
+#main_menu li li a span {
+	background:url(layout/red-theme/mm_lk_left2.gif) no-repeat 0 -25px;
+}
+
+#main_menu li li a span span {
+	background:url(layout/red-theme/mm_lk_right2.gif) no-repeat right -25px;
+}
+
+#main_menu li li  a.selected:link, 
+#main_menu li li  a.selected:visited, 
+#main_menu li li a.selected:hover, 
+#main_menu li li a.selected:active {
+	color:#fff;
+	font-weight: bold;
+}
+
+
+h3 {
+	color: #cd5333;
+}
+
+#info h2 {
+	color:#8e2409;
+}
+
+#sidebar h3 {
+	color: #8e2409;
+}
+
+.view_all_orders:link, 
+.view_all_orders:visited, 
+.view_all_orders:hover, 
+.view_all_orders:active	 {
+	color: #cb2900;
+}
+
+.product_name:link, 
+.product_name:visited, 
+.product_name:hover, 
+.product_name:active {
+	color: #cb2900;
+}
+
+.actions_menu a:link, 
+.actions_menu a:visited, 
+.actions_menu a:hover, 
+.actions_menu a:active {
+	color: #cb2900;
+}
+
+.table_wrapper th a:link, 
+.table_wrapper th a:visited, 
+.table_wrapper th a:hover, 
+.table_wrapper th a:active {
+	color: #7e1900;
+}
+
+#secondary_menu a:link, 
+#secondary_menu a:visited, 
+#secondary_menu a:hover, 
+#secondary_menu a:active {
+	background:url(layout/red-theme/sec_menu_bg.gif) no-repeat 3px center;
+}
+
+.update:link, .update:visited, .update:active {
+	color: #7e1900;
+	background:url(layout/red-theme/update_middle.gif) repeat-x;
+}
+
+.update span {
+	background:url(layout/red-theme/update_left.gif) no-repeat;
+}
+
+.update span span {
+	background:url(layout/red-theme/update_right.gif) no-repeat right top;
+}
+
+.update em {
+	background-image:url(layout/red-theme/add.gif);
+}
+
+.pag_list a:link, .pag_list a:visited, .pag_list a:hover, .pag_list a:active {
+	color: #aa2200;
+}	
+
+.prev {
+	background-image: url(layout/red-theme/prev.gif);
+}
+
+.next {
+	background-image: url(layout/red-theme/next.gif);
+}
+
+.button {
+	background-image:url(layout/red-theme/submit_middle.gif);
+}
+
+.button span {
+	background-image:url(layout/red-theme/submit_left.gif);
+}
+
+.button span span {
+	background-image:url(layout/red-theme/submit_right.gif);
+	
+}
+
+.small_inputs .button {
+	background-image: url(layout/red-theme/submit_middle_small.gif)
+}
+
+.small_inputs .button span  {
+	background-image: url(layout/red-theme/submit_left_small.gif)
+}
+
+.small_inputs .button span span  {
+	background-image: url(layout/red-theme/submit_right_small.gif)
+}
+
+.pagination .button {
+	background-image: url(layout/red-theme/go.gif);
+}
+
+
+	
+
+
+
